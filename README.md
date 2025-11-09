@@ -50,10 +50,15 @@ Setup & Execution
 
 🔹 Backend Setup
 cd smartvision/backend
+
 python -m venv venv
+
 source venv/bin/activate   # (Windows: venv\Scripts\activate)
+
 pip install -r requirements.txt
+
 python train.py            # trains CNN model
+
 python app.py              # starts API at http://localhost:5000
 
 🔹 Frontend Setup
