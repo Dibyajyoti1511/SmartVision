@@ -21,8 +21,11 @@ Built with TensorFlow, Flask, and React, this project demonstrates scalable ETL 
 🧠 Tech Stack
 
 Frontend: React.js, Axios, HTML5, CSS3
+
 Backend: Flask, Flask-CORS, TensorFlow, Pillow, NumPy
+
 Database (optional): MongoDB or SQLite (for logging results)
+
 Tools: VS Code, Postman, Git, Google Colab
 
 ⚙️ Architecture Diagram
