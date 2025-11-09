@@ -88,6 +88,9 @@ Learned deployment principles relevant to AI-powered web apps.
 🔮 Future Improvements
 
 Integrate model explainability with Grad-CAM visualizations.
+
 Enable cloud storage (AWS S3) for image logs.
+
 Containerize with Docker for multi-service deployment.
+
 Hosting Options: Render / AWS EC2 / ngrok for testing
